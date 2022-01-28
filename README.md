@@ -2,7 +2,7 @@
 
 - one
 - two
-- three
+- 3
 
 ## Subtitle
 
